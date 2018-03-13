@@ -1,0 +1,28 @@
+HOME
+	-Ha de disposar d'un formualari on els usuaris s'hi puguin apuntar (no ha de ser funcional per a aquest exercici, però si que pot simular un feedback d'èxit).
+    
+	-Ha de proporcionar accés a les xarxes socials Instagram, Facebook i YouTube.
+    
+	-Els patrocinadors han d'aparèixer en tot moment a la pàgina (o com a mínim tindre-hi una importància destacada). Des dels seus logotips, haurà de ser possible que al clicar, se'ns obri la seva web en una nova pàgina. Els patrocinadors son Nike, Coca-Cola, CEFP Nuria i -Tesla Motors.
+    
+Consejos
+	-Ha de tindre un llistat de consells per a la cursa.
+    
+	-Ha d'informar de com s'ha de dur el dorsal i el xip
+    
+	-Ha d'explicar quina funció té el xip
+    
+Recorridos
+	-Hi ha un recorregut de 10 kilòmetres i un altre de 25.
+    
+	-Ha d'informar del recorregut
+    
+Contacto
+	-Ha de disposar d'un formualari on els usuaris s'hi puguin apuntar (no ha de ser funcional per a aquest exercici, però si que pot simular un feedback d'èxit).
+    
+	-Ha de proporcionar accés a les xarxes socials Instagram, Facebook i YouTube.
+
+-Ha de ser accessible (AA com a mínim)
+-Les imatges i els vídeos han de tindre un paper protagonista.
+-Ha de ser una pàgina poc profunda (entre una i quatre planes màxim)
+-Estèticament els referents son https://alexdracing.com/#bio i https://www.bridgestonetire.com/
