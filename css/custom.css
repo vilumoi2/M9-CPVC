@@ -23,6 +23,7 @@ nav{
     background-color: #1A1A1A;
     color: white;
     justify-content: space-between;
+    z-index: 999;
 }
 
 nav a{    
@@ -94,7 +95,7 @@ nav div:first-child{
     padding-bottom: 20px;
 }
 
-#contacto{
+.contacto{
     color: #1A1A1A;
     background-color: rgba(255, 255, 255, 0.8);
     width: 100%;
@@ -339,13 +340,16 @@ nav div:first-child{
     text-align: center;
 }
 
+.mapasrecorridos iframe{
+    width: 50%;
+}
+
 #divcontact{
     padding-bottom: 0px;
 }
 
 #calltoaction2{
     text-align: center;
-    color: white;
     padding: 50px 0px;
 }
 
@@ -381,9 +385,18 @@ nav div:first-child{
     }
     
     nav{
-        display: none;
+        position: relative;
         width: 100%;
         flex-direction: row;
+        height: 10%;
+    }
+    
+    nav div {
+        padding: 15px 20px;
+    }
+    
+    .swing, #navtitle{
+        display: none;
     }
     
     #headerbackground{
@@ -391,19 +404,81 @@ nav div:first-child{
         background-size: cover;
         background-position: center;
         float: left;
-        height: 100vh;
+        height: 100%;
         color: white;
     }
     
+    #logonav{
+        width: 100px;
+    }
+    
     #logonav img {
-        width: 20%;
-        height: 20%;
+        width: 90%;
+        height: 100%;
+    }
+    
+    #formulario1{
+        display: inline;
     }
     
     .formulariocontact{
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+    }
+    
+    .formulariocontact div{
+        width: 100%;
+    }
+    
+    #consejos2{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+    #consejos2 img {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    
+    #foot{
         flex-direction: column;
+    }
+    
+    #accord h2{
+        font-size: 20px;
+    }
+    
+    #informacionextra{
+        flex-direction: column;
+    }
+    
+    #informacionextra div{
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+    
+    .mapasrecorridos{
+        flex-direction: column;
+    }
+    
+    #recorrido2{
+        flex-direction: column-reverse;
+    }
+    
+    .mapasrecorridos iframe{
+        width: 100%;
+    }
+    
+    .mapasrecorridos h2{
+        padding: 20px 0px;
+    }
+    
+    #datoscontacto{
+        flex-direction: column;
+    }
+    
+    #contactimg{
+        margin-top: 20px;
     }
 }
