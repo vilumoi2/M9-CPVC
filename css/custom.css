@@ -121,6 +121,10 @@ nav div:first-child{
     width: 100%;
 }
 
+.formulariocontact label{
+    display: none;
+}
+
 .formulariocontact button{
     background-color: #007528; 
     height: 40px; 
